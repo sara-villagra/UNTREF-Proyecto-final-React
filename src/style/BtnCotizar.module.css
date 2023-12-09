@@ -1,0 +1,9 @@
+.save{
+    font-size: .75rem;
+    padding: 8px 10px;
+    border-radius: 5px;
+    box-shadow: 11px 20px 14px -12px rgba(0,0,0,0.61);
+    -webkit-box-shadow: 11px 20px 14px -12px rgba(0,0,0,0.61);
+    -moz-box-shadow: 11px 20px 14px -12px rgba(0,0,0,0.61);
+    cursor: pointer;
+}

@@ -1,0 +1,100 @@
+[
+    {   
+        "id":1,
+       "destino":"Mar del plata",
+       "paquete": "basic",
+       "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+       "precio":2500
+    
+    },
+    {
+        "id":2,
+        "destino":"Mar del plata",
+        "paquete": "premiun",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":3500
+       
+    },
+    {
+        "id":3,
+        "destino":"Mar del plata",
+        "paquete": "gold",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":4500
+       
+    },
+    {
+        "id":4,
+        "destino":"Necochea",
+        "paquete": "basic",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":3500
+       
+    },
+    {
+        "id":5,
+        "destino":"Necochea",
+        "paquete": "premiun",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":5500
+       
+    },
+    {
+        "id":6,
+        "destino":"Necochea",
+        "paquete": "gold",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":7500
+       
+    },
+       
+    {"id":7,
+        "destino":"Pinamar",
+        "paquete": "basic",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":3500
+       
+    },
+    {
+        "id":8,
+        "destino":"Pinamar",
+        "paquete": "premiun",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":5500
+       
+    },
+    {
+        "id":9,
+        "destino":"Pinamar",
+        "paquete": "gold",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":8500
+       
+    },
+       
+    {
+        "id":10,
+        "destino":"Pecuen-Co",
+        "paquete": "basic",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":2000
+       
+    },
+    {
+        "id":11,
+        "destino":"Pecuen-Co",
+        "paquete": "premiun",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":3500
+       
+    },
+    {
+        "id":12,
+        "destino":"Pecuen-Co",
+        "paquete": "gold",
+        "incluye": "6 dias y 5 noche.Desayuno, mas 2 excursiones. Hoteles Mar del Plata cuenta con piscina al aire libre todo el año, wi-fi gratis ",
+        "precio":4500
+       
+    }
+]
+

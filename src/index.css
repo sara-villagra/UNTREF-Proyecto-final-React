@@ -1,0 +1,51 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+:root{
+  --miprimer-Color:#e2f04e;
+  --miSegundo-Color :#ffffffd5;
+  --mitercer-Color:#ec7e6b;
+  --texto-Color:#101204;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://plus.unsplash.com/premium_photo-1669050694348-88cbf65415e5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHZpYWplcyUyMHBsYXlhfGVufDB8fDB8fHww");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header{
+  display: flex;
+  gap: .5rem;
+  justify-content:center;
+  text-align: center;
+  width: 100vh;
+  min-height:10vh ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+main{
+  width: calc(100% -2rem);
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+nav{
+  display: flex;
+  gap: .5rem;
+ 
+}
