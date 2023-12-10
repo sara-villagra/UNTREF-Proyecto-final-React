@@ -42,7 +42,7 @@
     -moz-box-shadow: 11px 20px 14px -12px rgba(0,0,0,0.61);
 }
 
-@media screen and (min-width:768px) {
+/* @media screen and (min-width:768px) {
     .form{
         width: 90vh;
     }
@@ -80,4 +80,4 @@
         text-align: center;
     }
 } 
-  
+   */

@@ -7,7 +7,7 @@
     -moz-box-shadow: 11px 20px 14px -12px rgba(0,0,0,0.61);
     cursor: pointer;
 }
-@media screen and (min-width:425px){
+/* @media screen and (min-width:425px){
     .save{
         padding: 0.5rem;
     }
@@ -17,4 +17,4 @@
         padding:6px;
         height: 2rem;
     }
-}
+} */
