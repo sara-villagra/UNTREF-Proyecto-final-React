@@ -48,7 +48,7 @@ const Formulario = () => {
   };
  
   const reseteo = useRef();
-  const tituloForm = "Completa los datos y solicita tu cotización";
+  const tituloForm = "Completa los datos y solicita tu cotización...";
   const subtitulo="¡Descubrí las playas Argentina!"
   return (
     <>

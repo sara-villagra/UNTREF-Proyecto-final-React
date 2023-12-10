@@ -21,6 +21,7 @@ body{
   background-image: url("https://plus.unsplash.com/premium_photo-1669050694348-88cbf65415e5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHZpYWplcyUyMHBsYXlhfGVufDB8fDB8fHww");
   background-repeat: no-repeat;
   background-size: cover;
+ 
 }
 header{
   display: flex;
@@ -32,7 +33,10 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
- }
+}
+  
+  
+ 
 main{
   width: calc(100% -2rem);
   min-height: 80vh;
@@ -50,4 +54,53 @@ nav{
   justify-content: end;
   width: 20%;
  
+}
+/* 
+media query para estilos generales */ 
+  @media screen and (min-width:768px) {
+    body{
+      width: 768px;
+     
+    }
+  header{
+      width: 90vh;
+      gap: 0;
+  }
+ 
+} 
+
+ @media screen and (min-width:425px) {
+  body{
+    width: 423px;
+    margin: 0.3rem auto;
+    padding: 8px;
+  }
+  main{
+    width: calc(90% -1rem);
+  }
+  header{
+      gap: 0;
+      width: 400px;
+  
+  }
+  nav{
+    width: 15%;
+    flex-direction: column;
+
+  }
+} 
+
+ @media screen and (min-width:375px){ 
+ body{
+    width: 365px;
+  }
+  header{
+      width: 90%;
+     
+  }
+  nav{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+  }
 }

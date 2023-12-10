@@ -24,3 +24,14 @@
     outline: none;
     cursor: pointer;
 }
+@media screen and (min-width:375px){
+    .container label{
+        font-weight: 200;
+        text-align: start;
+        
+    }
+    .container select{
+        width: 5rem;
+    }
+
+}

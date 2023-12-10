@@ -18,3 +18,15 @@
     outline: none;
     cursor: pointer;
 }
+@media screen and (min-width:375px){
+    .container label{
+        font-size: 1rem;
+        text-align: start;
+        
+    }
+    .container input{
+        width: 2rem;
+        
+    }
+
+}
