@@ -19,11 +19,11 @@ const Historial = () => {
         <ul className={HistoryStyle.ul}>
           {historial.map((item, indice) => (
             <li className={HistoryStyle.lista} key={indice}>
-              <p>id:{item.id}</p>
-              <p>Fecha:{item.fecha}</p>
-              <p>Destino:{item.destino}</p>
-              <p>Paquete:{item.paquete}</p>
-              <p>Incluye:{item.incluye}</p>
+              <p>id: {item.id}</p>
+              <p>Fecha: {item.fecha}</p>
+              <p>Destino: {item.destino}</p>
+              <p>Paquete: {item.paquete}</p>
+              <p>Incluye: {item.incluye}</p>
               <p>Precio:$ {item.precio}</p>
               <p>Valor:$ {item.valor}</p>
               </li>
