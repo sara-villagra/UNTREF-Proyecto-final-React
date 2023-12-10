@@ -25,7 +25,7 @@ body{
 }
 header{
   display: flex;
-  gap: .5rem;
+  gap: 1rem;
   justify-content:center;
   text-align: center;
   width: 100vh;
@@ -55,20 +55,27 @@ nav{
   justify-content: end;
   width: 20%;
   
+  
  
 }
 @media screen and (min-width:375px){ 
   body{
      width: 365px;
    }
+   main{
+    gap: .5rem;
+   }
    header{
-       width: 90%;
+       width: 100%;
+       padding: .5rem;
       
    }
    nav{
      display: flex;
      flex-direction: column;
      width: 25%;
+     margin-left: 40px;
+   
    }
   }
   @media screen and (min-width:425px) {
@@ -82,12 +89,14 @@ nav{
     }
     header{
         gap: 0;
-        width: 400px;
+        width:90%;
+        
     
     }
     nav{
-      width: 15%;
+      width: 18%;
       flex-direction: column;
+      margin-left: 10px;
   
     }
   } 
@@ -102,7 +111,7 @@ media query para estilos generales */
     }
   header{
       width: 90vh;
-      gap: 0;
+      gap: 5rem;
   }
  
 } 

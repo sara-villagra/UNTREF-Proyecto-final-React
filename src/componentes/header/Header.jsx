@@ -11,8 +11,8 @@ const Header = () => {
                 <h2 className={StyleHeader.title}>{titulo}</h2>
               
                 <nav>
-                <Link className={StyleHeader.link} to="/">Cotizador</Link>
-                <Link className={StyleHeader.link} to="/historial">Historial</Link>
+                <Link className={StyleHeader.link} to="/"> Cotizador </Link>
+                <Link className={StyleHeader.link} to="/historial"> Historial </Link>
                 </nav>
                 
             </header>

@@ -52,32 +52,7 @@
     gap: .75rem;
 }
 /* media query  */
-/* @media screen and (min-width:768px) {
-    .sectionHistory{
-        width: 90vh;
-        padding: 0;
-        
-    }
-    .form{
-        margin-right: 0rem;
-    }
-}
-@media screen and (min-width:425px){
-    .sectionHistory{
-        width: 400px;
-        padding-bottom: 16px;
-        gap: 0rem;
-    }
-    .title{
-        font-size: 1.5rem;
-        text-align: center;
-        margin: 8px;
-    }
-    .lista p{
-        font-size: 1rem;
-    }
-} 
- @media screen and (min-width:375px){
+@media screen and (min-width:375px){
     .sectionHistory{
         width: 300px;
         padding: 0px;
@@ -95,4 +70,32 @@
         gap: 1rem;
     }
     
-} */
+}
+@media screen and (min-width:425px){
+    .sectionHistory{
+        width: 400px;
+        padding-bottom: 16px;
+        gap: 0rem;
+    }
+    .title{
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 8px;
+    }
+    .lista p{
+        font-size: 1rem;
+    }
+} 
+ 
+
+@media screen and (min-width:768px) {
+    .sectionHistory{
+        width: 90vh;
+        padding-bottom: 16px;
+
+        
+    }
+    .form{
+        margin-right: 0rem;
+    }
+}
