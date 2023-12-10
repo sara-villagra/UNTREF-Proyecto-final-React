@@ -49,6 +49,7 @@ const Formulario = () => {
  
   const reseteo = useRef();
   const tituloForm = "Completa los datos y solicita tu cotización";
+  const subtitulo="¡Descubrí las playas Argentina!"
   return (
     <>
       <form
@@ -57,6 +58,7 @@ const Formulario = () => {
         onSubmit={youTravels}
         id="cotizador"
       >
+        <h3 className= {FormStyle.upTitle} >{subtitulo}</h3>
         <h3 className={FormStyle.title}>{tituloForm}</h3>
         <Destinos />
         <Paquetes />

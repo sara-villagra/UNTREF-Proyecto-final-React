@@ -9,7 +9,7 @@ const Historial = () => {
       setHistorial([]);
       return navigation("/historial")}
 
-  const titulo = "Historial";
+  const titulo = " MI HISTORIAL";
 
   return (
     <>

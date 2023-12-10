@@ -1,15 +1,16 @@
 .title{
-    font-size: 1.5rem;
+    font-size: 2.2rem;
+    padding-left: 3rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:var(--texto-Color) ;
-    text-shadow: 2px 7px 7px rgba(231, 233, 224, 0.6);
+    text-shadow: 2px 7px 7px rgba(241, 242, 238, 0.6);
     
 
     
 }
 .link{
     text-decoration: none;
-    font-size: 0.75rem;
+    font-size: 0.6rem;
     padding: .5rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: var(--miSegundo-Color);

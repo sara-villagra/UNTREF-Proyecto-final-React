@@ -12,7 +12,7 @@ const Paquetes = () => {
   return (
     <>
       <fieldset className= {PaqueteStyle.container}>
-        <label htmlFor="paquetes">Selecciones su paquetes ideal</label>
+        <label htmlFor="paquetes">Seleccione su pack ideal</label>
         <select name="paquetes" id="paquete" defaultValue={0}  onChange={({target})=>setPack(target.value)}>
           <option value={0} disabled>Paquetes disponibles:</option>
           {

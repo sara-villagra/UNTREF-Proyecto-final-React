@@ -1,9 +1,15 @@
 .title{
+    padding: 10px;
     text-align: center;
     margin-right: 70px;
     color: var(--texto-Color);
+    font-family:cursive;
 }
 .sectionHistory{
+    background-image: url("https://assets.isu.pub/document-structure/230510205332-a9e114c6d6ee0d544472f99f7592047c/v1/cbbcd8f3d2dd4aab08eca5d4515c0048.jpeg");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-position: center;
     width: 100vh;
     min-height:50vh ;
     display: flex;
